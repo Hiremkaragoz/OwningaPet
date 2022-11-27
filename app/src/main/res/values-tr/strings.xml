@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OwningaPet</string>
+    <string name="cins_name">Malta Köpeği</string>
+    <string name="age">YAŞ</string>
+    <string name="health">sAĞLIK DURUMU</string>
+    <string name="sex">CİNSİYET</string>
+    <string name="age_bilgi">4 maylık</string>
+    <string name="health_bilgi">Sağlıklı</string>
+    <string name="sex_bilgi">Dişi</string>
+    <string name="location">KONUM</string>
+    <string name="seller">SATICI</string>
+    <string name="seller_bilgi">Mustafa Yılmaz (Profili Görüntüle >)</string>
+    <string name="make_offer">TEKLİF VER</string>
+
+
+
+</resources>

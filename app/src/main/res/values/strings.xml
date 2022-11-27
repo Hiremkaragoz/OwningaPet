@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OwningaPet</string>
+    <string name="cins_name">Maltese dog</string>
+    <string name="age">AGE</string>
+    <string name="health">HEALTH</string>
+    <string name="sex">SEX</string>
+    <string name="age_bilgi">4 months</string>
+    <string name="health_bilgi">Fit</string>
+    <string name="sex_bilgi">Female</string>
+    <string name="location">LOCATION</string>
+    <string name="seller">SELLER</string>
+    <string name="seller_bilgi">Mustafa Yılmaz (View Profile >)</string>
+    <string name="make_offer">MAKE OFFER</string>
+
+
+
+</resources>
